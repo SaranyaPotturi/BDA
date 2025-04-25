@@ -1,5 +1,5 @@
 
-This repository contains three machine learning projects implemented with Apache Spark. Each project demonstrates different capabilities of Spark's MLlib for big data analytics.
+This repository contains three machine learning projects implemented with Apache Spark
 
 ## Project 1: Classification Model with Spark
 
